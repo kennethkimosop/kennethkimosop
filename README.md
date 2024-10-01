@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @kenneth kimosop a Telecommunication and Information Engineer
 - 👀 I’m interested in Data Science, Generative AI and Machine Learning
-- I'm looking foward to creating tools and products that are useful to engineers. I am happy to be of help to you.
+- I'm looking foward to creating tools and products that are useful to engineers. 
 - I am happy to be of help to you.
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projectsand ideas that spark innovation in technology.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: WHAT IF... ?
 
