@@ -56,8 +56,8 @@ Here are a few of my highlighted works. 🚀
 
 ## 📫 Let's Connect
 - 🌐 [Portfolio Website](http://kennethkim-onrender.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/kennethkimosop)  
-- 🧑‍💻 [LeetCode](https://leetcode.com/kennethkimosop)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kenneth-kimosop-71a102267/)  
+- 🧑‍💻 [LeetCode](https://leetcode.com/u/HMp0ObZigI/)  
 - ✉️ Email: **kenkimosop6@gmail.com**
 
 ---
