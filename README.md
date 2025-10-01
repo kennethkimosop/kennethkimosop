@@ -6,12 +6,10 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I build tools & products that **empower engineers** and provide solutions.  
-- 🤝 Open to collaborating on **Data Science, Machine Learning, and IoT innovation projects**.  
-- 🧑‍🏫 I also mentored students in IoT & cloud integration, helping bring ideas to life.  
-- ⚡ Fun fact: *“WHAT IF... ?” fuels most of my projects.*  
-
----
+- 🔭 I enjoy building tools and products that **solve problems and provide solutions**.  
+- 🤝 Always open to learning from others and collaborating on **Data Science, Machine Learning, and IoT projects**.  
+- 🧑‍🏫 I value growth through teamwork and knowledge-sharing.  
+- ⚡ Fun fact: I like asking *“What if... ?”* — often sparks my best ideas.
 
 ## 🛠️ Tech Stack
 **Languages & Frameworks**  
