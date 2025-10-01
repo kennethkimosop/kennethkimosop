@@ -6,9 +6,9 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I build tools & products that **empower engineers** and solve real-world problems.  
+- 🔭 I build tools & products that **empower engineers** and provide solutions.  
 - 🤝 Open to collaborating on **Data Science, Machine Learning, and IoT innovation projects**.  
-- 🧑‍🏫 I also mentor students in IoT & cloud integration, helping bring ideas to life.  
+- 🧑‍🏫 I also mentored students in IoT & cloud integration, helping bring ideas to life.  
 - ⚡ Fun fact: *“WHAT IF... ?” fuels most of my projects.*  
 
 ---
@@ -22,7 +22,6 @@
 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  
 
 **Data & AI**  
