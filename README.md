@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kenneth Kimosop  
 
-🎓 **Telecommunication & Information Engineering Student** | 💡 Passionate about **Cloud, AI, and IoT**  
+🎓 **Data Science and AI enthusiast** | 💡 Passionate about **Cloud, AI, and IoT**  
 🌍 Based in Nakuru, Kenya | 🌱 Currently diving deeper into **Data Science & Generative AI**  
 
 ---
@@ -38,7 +38,7 @@
 ---
 
 ## 🌟 Featured Projects
-Here are a few of my highlighted works. More on [my website](http://kennethkim-onrender.com) 🚀
+Here are a few of my highlighted works. 🚀
 
 - **[CloudMart E-Commerce Platform](https://github.com/kennethkimosop/cloudmart)**  
   Deployed with AWS EC2 & Docker, with CI/CD pipelines and monitoring.  
