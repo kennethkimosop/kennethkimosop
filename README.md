@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Kenneth Kimosop  
+#  I'm Kenneth Kimosop  
 
-🎓 **Data Science and AI enthusiast** | 💡 Passionate about **Cloud, AI, and IoT**  
-🌍 Based in Nakuru, Kenya | 🌱 Currently diving deeper into **Data Science & Generative AI**  
+ **Data Science and AI enthusiast** |  Passionate about **Cloud, AI, and IoT**  
+ Currently diving into **Data Science & Generative AI**  
 
 ---
 
-## 🚀 About Me
+##  About Me
 -  I enjoy building tools and products that **solve problems and provide solutions**.  
 -  Always open to learning from others and collaborating on **Data Science, Machine Learning, and IoT projects**.  
 -  I value growth through teamwork and knowledge-sharing.  
 -  Fun fact: I like asking *“What if... ?”* — often sparks my best ideas.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 Here are a few of my highlighted works. 
 
 - **[CloudMart E-Commerce Platform](https://github.com/kennethkimosop/cloudmart)**  
